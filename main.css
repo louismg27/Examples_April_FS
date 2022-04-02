@@ -1,0 +1,37 @@
+table{
+    border: solid 2px red;
+    border-collapse: collapse;
+}
+ 
+th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+ 
+.primero{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.segundo{
+    border: 2px solid red;
+    
+}
+
+input{
+    border: solid 2px wheat;
+    margin-bottom:  20px;
+    padding: 5px;
+    width: 20%;
+    border-radius: 10px;
+}
+label{
+    color: white
+}
+
+form{
+    width: 100%;
+    background-color: black;
+  
+    text-align: center;
+}
